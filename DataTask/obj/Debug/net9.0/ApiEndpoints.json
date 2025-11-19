@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "DataTask.Controllers.ProblemController",
+    "Method": "Debug",
+    "RelativePath": "api/Problem/debug",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataTask.Controllers.ProblemController",
+    "Method": "Raw",
+    "RelativePath": "api/Problem/raw",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataTask.Controllers.ProblemController",
+    "Method": "TopPlants",
+    "RelativePath": "api/Problem/top-plants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "DataTask",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Problem/debug": {
+      "get": {
+        "tags": [
+          "Problem"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Problem/raw": {
+      "get": {
+        "tags": [
+          "Problem"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Problem/top-plants": {
+      "get": {
+        "tags": [
+          "Problem"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
