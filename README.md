@@ -60,6 +60,7 @@ I chose **C# and ASP.NET Core** because:
   { "Plant": "Sowing peas", "Count": 70 },
   { "Plant": "Spring barley", "Count": 50 }
 ]
+---
 
 ## Result Examples
 Raw Data Preview: 10
