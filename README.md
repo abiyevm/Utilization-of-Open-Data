@@ -53,14 +53,14 @@ I chose **C# and ASP.NET Core** because:
 
 
 ## Result Examples
-Raw Data Preview: 10
+**Raw Data Preview: 10**
 records from /api/problem/raw endpoint.
 <img width="608" height="594" alt="Screenshot 2025-11-19 222633" src="https://github.com/user-attachments/assets/ad661884-a6cd-4b64-8970-7e5392abf57b" />
 
-Aggregated Summary: Top 5
+**Aggregated Summary: Top 5**
 plants using /api/problem/top-plants.
 <img width="615" height="607" alt="Screenshot 2025-11-19 222600" src="https://github.com/user-attachments/assets/c8fa8ca3-400d-42be-9f46-b2098fa24112" />
 
-5. Achievement
+##5. Achievement
 
 This project demonstrates the use of open data for data aggregation and API development in ASP.NET Core. It provides structured, usable plant monitoring insights suitable for analysis and visualization.
