@@ -51,16 +51,6 @@ I chose **C# and ASP.NET Core** because:
 | `/api/problem/raw` | GET | Returns first 10 records of plant monitoring data. |
 | `/api/problem/top-plants` | GET | Returns top 5 plants with most disease/pest reports. |
 
-**Example Response – `/api/problem/top-plants`:**
-```json
-[
-  { "Plant": "Winter wheat", "Count": 150 },
-  { "Plant": "Spring wheat", "Count": 120 },
-  { "Plant": "Winter rapeseed", "Count": 95 },
-  { "Plant": "Sowing peas", "Count": 70 },
-  { "Plant": "Spring barley", "Count": 50 }
-]
----
 
 ## Result Examples
 Raw Data Preview: 10
