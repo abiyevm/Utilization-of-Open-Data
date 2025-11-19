@@ -63,12 +63,12 @@ I chose **C# and ASP.NET Core** because:
 
 ## Result Examples
 Raw Data Preview: 10
-![problems-raw](https://github.com/user-attachments/assets/fa4c39ac-ed1f-4589-8192-387028f8acb3)
-
 records from /api/problem/raw endpoint.
-![top-plants](https://github.com/user-attachments/assets/583305b0-c1b2-43e5-90e5-d2150b80e0b4)
+<img width="608" height="594" alt="Screenshot 2025-11-19 222633" src="https://github.com/user-attachments/assets/ad661884-a6cd-4b64-8970-7e5392abf57b" />
 
-Aggregated Summary: Top 5 plants using /api/problem/top-plants.
+Aggregated Summary: Top 5
+plants using /api/problem/top-plants.
+<img width="615" height="607" alt="Screenshot 2025-11-19 222600" src="https://github.com/user-attachments/assets/c8fa8ca3-400d-42be-9f46-b2098fa24112" />
 
 5. Achievement
 
